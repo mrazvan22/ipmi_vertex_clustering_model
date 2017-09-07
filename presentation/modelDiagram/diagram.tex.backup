@@ -1,0 +1,78 @@
+
+\documentclass[10pt,xcolor=table]{beamer}
+
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+
+% \usepackage[utf8]{inputenc}
+% \usepackage[T1]{fontenc}
+\usepackage[table]{xcolor}    % loads also »colortbl«
+%  \usepackage{enumitem}
+\usepackage{ucltemplate}
+\usepackage{color}
+
+\usepackage{pgfgantt} % for grantt charts
+\usepackage{rotating}
+\usepackage[graphicx]{realboxes}
+
+\usepackage{tikz}
+\usetikzlibrary{arrows,positioning, shapes.symbols,shapes.callouts,patterns,shapes,chains,calc,backgrounds,fadings}
+
+
+\setbeamersize{text margin left=15pt,text margin right=15pt,text margin bottom=15pt}
+
+
+\begin{document}
+
+\frame{\titlepage}
+
+\setbeamerfont{frametitle}{size=\large}
+
+\begin{frame}
+\frametitle{Method}
+
+\newcommand{\lw}{0.5mm}
+% \newcommand{\mycirc}[2]{\draw (#1,#2) circle (3cm);}
+
+\begin{figure}
+\centering
+\begin{tikzpicture}
+ \draw[line width=\lw] (0,0) arc (-30:30:2) ;
+ \draw[line width=\lw] (1.7,0) arc (-30:30:2) ;
+  \draw (0.22,0.00) circle (0.15cm);
+  \draw (0.42,0.40) circle (0.15cm);
+  \draw (0.52,0.80) circle (0.15cm);
+  \draw (0.52,1.20) circle (0.15cm);
+  \draw (0.42,1.60) circle (0.15cm);
+  \draw (0.22,2.00) circle (0.15cm);
+  \draw (0.62,0.00) circle (0.15cm);
+  \draw (0.82,0.40) circle (0.15cm);
+  \draw (0.92,0.80) circle (0.15cm);
+  \draw (0.92,1.20) circle (0.15cm);
+  \draw (0.82,1.60) circle (0.15cm);
+  \draw (0.62,2.00) circle (0.15cm);
+  \draw (1.02,0.00) circle (0.15cm);
+  \draw (1.22,0.40) circle (0.15cm);
+  \draw (1.32,0.80) circle (0.15cm);
+  \draw (1.32,1.20) circle (0.15cm);
+  \draw (1.22,1.60) circle (0.15cm);
+  \draw (1.02,2.00) circle (0.15cm);
+  \draw (1.42,0.00) circle (0.15cm);
+  \draw (1.62,0.40) circle (0.15cm);
+  \draw (1.72,0.80) circle (0.15cm);
+  \draw (1.72,1.20) circle (0.15cm);
+  \draw (1.62,1.60) circle (0.15cm);
+  \draw (1.42,2.00) circle (0.15cm);
+
+
+ \node  (brain) at (-3,0) {\includegraphics[scale=0.7]{brain.png}}
+
+ \end{tikzpicture}
+\end{figure}
+
+
+\end{frame}
+
+\end{document}
+
