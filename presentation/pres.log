@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.8.23)  7 SEP 2017 09:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.8.23)  7 SEP 2017 10:03
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1216,39 +1216,39 @@ Package pdftex.def Info: uclheader.pdf used on input line 119.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./uclheader.pdf> <./epsrc_
 logo.jpg> <./NEWpond2017b.png> <./pondLogo.png>]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 173.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 171.
 
 <seeley_2009_topleft.png, id=84, 280.04625pt x 330.23375pt>
 File: seeley_2009_topleft.png Graphic file (type png)
 
 <use seeley_2009_topleft.png>
-Package pdftex.def Info: seeley_2009_topleft.png used on input line 173.
+Package pdftex.def Info: seeley_2009_topleft.png used on input line 171.
 (pdftex.def)             Requested size: 51.62982pt x 67.13902pt.
 
 <bilgel_neuroimage.jpg, id=86, 456.7464pt x 67.2111pt>
 File: bilgel_neuroimage.jpg Graphic file (type jpg)
 
 <use bilgel_neuroimage.jpg>
-Package pdftex.def Info: bilgel_neuroimage.jpg used on input line 173.
+Package pdftex.def Info: bilgel_neuroimage.jpg used on input line 171.
 (pdftex.def)             Requested size: 82.60802pt x 58.20346pt.
 
 <biomkStepFunctions.png, id=88, 462.528pt x 346.896pt>
 File: biomkStepFunctions.png Graphic file (type png)
 
 <use biomkStepFunctions.png>
-Package pdftex.def Info: biomkStepFunctions.png used on input line 173.
+Package pdftex.def Info: biomkStepFunctions.png used on input line 171.
 (pdftex.def)             Requested size: 82.60802pt x 56.57385pt.
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 173.
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 171.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsphv.fd
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 173.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 171.
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 173.
+Package pdftex.def Info: uclheader.pdf used on input line 171.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
 
 [2
@@ -1262,7 +1262,7 @@ File: clust24_drcThFWHM0InitfsurfCl4Pr0Ra1Mrf5_VWDPMStaticPCA.png Graphic file
 
 <use clust24_drcThFWHM0InitfsurfCl4Pr0Ra1Mrf5_VWDPMStaticPCA.png>
 Package pdftex.def Info: clust24_drcThFWHM0InitfsurfCl4Pr0Ra1Mrf5_VWDPMStaticPC
-A.png used on input line 215.
+A.png used on input line 213.
 (pdftex.def)             Requested size: 60.22852pt x 45.17139pt.
 
 <clust24_drcThFWHM0Initk-meansCl4Pr0Ra1Mrf5_VDPM_MRFPCA.png, id=104, 602.25pt x
@@ -1271,19 +1271,19 @@ File: clust24_drcThFWHM0Initk-meansCl4Pr0Ra1Mrf5_VDPM_MRFPCA.png Graphic file (
 type png)
  <use clust24_drcThFWHM0Initk-meansCl4Pr0Ra1Mrf5_VDPM_MRFPCA.png>
 Package pdftex.def Info: clust24_drcThFWHM0Initk-meansCl4Pr0Ra1Mrf5_VDPM_MRFPCA
-.png used on input line 215.
+.png used on input line 213.
 (pdftex.def)             Requested size: 60.22852pt x 45.17139pt.
 
 <seeley_connectivity_overlap.jpg, id=105, 431.70132pt x 271.81195pt>
 File: seeley_connectivity_overlap.jpg Graphic file (type jpg)
 
 <use seeley_connectivity_overlap.jpg>
-Package pdftex.def Info: seeley_connectivity_overlap.jpg used on input line 215
+Package pdftex.def Info: seeley_connectivity_overlap.jpg used on input line 213
 .
 (pdftex.def)             Requested size: 172.09767pt x 74.34546pt.
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 215.
+Package pdftex.def Info: uclheader.pdf used on input line 213.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [3
 
@@ -1291,47 +1291,47 @@ Package pdftex.def Info: uclheader.pdf used on input line 215.
 5_VWDPMStaticPCA.png> <./clust24_drcThFWHM0Initk-meansCl4Pr0Ra1Mrf5_VDPM_MRFPCA
 .png>]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <7> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 278.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 276.
 
 <young_progression2.png, id=116, 908.39375pt x 131.49126pt>
 File: young_progression2.png Graphic file (type png)
 
 <use young_progression2.png>
-Package pdftex.def Info: young_progression2.png used on input line 278.
+Package pdftex.def Info: young_progression2.png used on input line 276.
 (pdftex.def)             Requested size: 91.38779pt x 26.30981pt.
 File: young_progression2.png Graphic file (type png)
  <use young_progression2.png>
-Package pdftex.def Info: young_progression2.png used on input line 278.
+Package pdftex.def Info: young_progression2.png used on input line 276.
 (pdftex.def)             Requested size: 91.38779pt x 26.30981pt.
 
 <young_positional_variance.jpg, id=119, 43.00066pt x 36.6168pt>
 File: young_positional_variance.jpg Graphic file (type jpg)
 
 <use young_positional_variance.jpg>
-Package pdftex.def Info: young_positional_variance.jpg used on input line 278.
+Package pdftex.def Info: young_positional_variance.jpg used on input line 276.
 (pdftex.def)             Requested size: 64.12997pt x 54.60992pt.
 
 <dps_diagram.jpg, id=120, 428.50354pt x 240.47363pt>
 File: dps_diagram.jpg Graphic file (type jpg)
  <use dps_diagram.jpg>
-Package pdftex.def Info: dps_diagram.jpg used on input line 278.
+Package pdftex.def Info: dps_diagram.jpg used on input line 276.
 (pdftex.def)             Requested size: 128.26239pt x 47.94241pt.
 
 <schiratti.png, id=122, 698.61pt x 538.01pt>
 File: schiratti.png Graphic file (type png)
  <use schiratti.png>
-Package pdftex.def Info: schiratti.png used on input line 278.
+Package pdftex.def Info: schiratti.png used on input line 276.
 (pdftex.def)             Requested size: 160.3274pt x 61.27353pt.
 
 <semor_diagram_cropped.jpg, id=124, 243.67142pt x 149.0169pt>
 File: semor_diagram_cropped.jpg Graphic file (type jpg)
 
 <use semor_diagram_cropped.jpg>
-Package pdftex.def Info: semor_diagram_cropped.jpg used on input line 278.
+Package pdftex.def Info: semor_diagram_cropped.jpg used on input line 276.
 (pdftex.def)             Requested size: 128.26239pt x 78.44196pt.
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 278.
+Package pdftex.def Info: uclheader.pdf used on input line 276.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [4
 
@@ -1339,32 +1339,32 @@ Package pdftex.def Info: uclheader.pdf used on input line 278.
 tional_variance.jpg> <./semor_diagram_cropped.jpg>]
 File: bilgel_neuroimage.jpg Graphic file (type jpg)
  <use bilgel_neuroimage.jpg>
-Package pdftex.def Info: bilgel_neuroimage.jpg used on input line 305.
+Package pdftex.def Info: bilgel_neuroimage.jpg used on input line 303.
 (pdftex.def)             Requested size: 292.56815pt x 43.05392pt.
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 305.
+Package pdftex.def Info: uclheader.pdf used on input line 303.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
 
 [5
 
 ]
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <6> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 372.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 370.
  <disease_axis.png, id=141, 593.21625pt x 460.72125pt>
 File: disease_axis.png Graphic file (type png)
 
 <use disease_axis.png>
-Package pdftex.def Info: disease_axis.png used on input line 372.
+Package pdftex.def Info: disease_axis.png used on input line 370.
 (pdftex.def)             Requested size: 88.97859pt x 69.1052pt.
 
-Overfull \hbox (2.92976pt too wide) in paragraph at lines 372--372
+Overfull \hbox (2.92976pt too wide) in paragraph at lines 370--370
  [] 
  []
 
 File: uclheader.pdf Graphic file (type pdf)
 <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 372.
+Package pdftex.def Info: uclheader.pdf used on input line 370.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [6
 
@@ -1374,32 +1374,31 @@ pt>
 File: Disease_progression_one_sigmoid_confidence.png Graphic file (type png)
  <use Disease_progression_one_sigmoid_confidence.png>
 Package pdftex.def Info: Disease_progression_one_sigmoid_confidence.png used on
- input line 431.
+ input line 429.
 (pdftex.def)             Requested size: 61.68997pt x 97.52368pt.
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 431.
+Package pdftex.def Info: uclheader.pdf used on input line 429.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
 
 [7
 
  <./Disease_progression_one_sigmoid_confidence.png>]
-<../../modelDiagram/sigManyBiomkClustering.png, id=164, 462.528pt x 346.896pt>
-File: ../../modelDiagram/sigManyBiomkClustering.png Graphic file (type png)
+<modelDiagram/sigManyBiomkClustering.png, id=164, 462.528pt x 346.896pt>
+File: modelDiagram/sigManyBiomkClustering.png Graphic file (type png)
 
-<use ../../modelDiagram/sigManyBiomkClustering.png>
-Package pdftex.def Info: ../../modelDiagram/sigManyBiomkClustering.png used on 
-input line 495.
+<use modelDiagram/sigManyBiomkClustering.png>
+Package pdftex.def Info: modelDiagram/sigManyBiomkClustering.png used on input 
+line 493.
 (pdftex.def)             Requested size: 48.75818pt x 60.85951pt.
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 495.
+Package pdftex.def Info: uclheader.pdf used on input line 493.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
+ [8
 
-[8
-
- <../../modelDiagram/sigManyBiomkClustering.png>]
-Overfull \hbox (5.33951pt too wide) detected at line 593
+ <./modelDiagram/sigManyBiomkClustering.png>]
+Overfull \hbox (5.33951pt too wide) detected at line 591
 \OT1/phv/m/sl/7 p\OT1/cmss/m/n/7 (\OT1/phv/m/sl/7 V\OMS/cmsy/m/n/7 j\OML/cmm/m/
 it/7 ; ^^L; ^^R; ^^[\OT1/cmss/m/n/7 ) = [] [] \OT1/phv/m/sl/7 p\OT1/cmss/m/n/7
  (\OT1/phv/m/sl/7 Z[] \OT1/cmss/m/n/7 = \OT1/phv/m/sl/7 k\OT1/cmss/m/n/7 ) [] \
@@ -1409,64 +1408,64 @@ OT1/phv/m/sl/7 N\OT1/cmss/m/n/7 (\OT1/phv/m/sl/7 V[]\OMS/cmsy/m/n/7 j\OT1/phv/m
 )\OML/cmm/m/it/7 ; ^^[[]\OT1/cmss/m/n/7 )
  []
 
-<../../modelDiagram/sig0.png, id=173, 462.528pt x 346.896pt>
-File: ../../modelDiagram/sig0.png Graphic file (type png)
+<modelDiagram/sig0.png, id=173, 462.528pt x 346.896pt>
+File: modelDiagram/sig0.png Graphic file (type png)
 
-<use ../../modelDiagram/sig0.png>
-Package pdftex.def Info: ../../modelDiagram/sig0.png used on input line 593.
+<use modelDiagram/sig0.png>
+Package pdftex.def Info: modelDiagram/sig0.png used on input line 591.
 (pdftex.def)             Requested size: 25.76073pt x 22.1311pt.
 
-<../../modelDiagram/sig1.png, id=174, 462.528pt x 346.896pt>
-File: ../../modelDiagram/sig1.png Graphic file (type png)
+<modelDiagram/sig1.png, id=174, 462.528pt x 346.896pt>
+File: modelDiagram/sig1.png Graphic file (type png)
 
-<use ../../modelDiagram/sig1.png>
-Package pdftex.def Info: ../../modelDiagram/sig1.png used on input line 593.
+<use modelDiagram/sig1.png>
+Package pdftex.def Info: modelDiagram/sig1.png used on input line 591.
 (pdftex.def)             Requested size: 25.76073pt x 22.1311pt.
 
-<../../modelDiagram/sig2.png, id=175, 462.528pt x 346.896pt>
-File: ../../modelDiagram/sig2.png Graphic file (type png)
+<modelDiagram/sig2.png, id=175, 462.528pt x 346.896pt>
+File: modelDiagram/sig2.png Graphic file (type png)
 
-<use ../../modelDiagram/sig2.png>
-Package pdftex.def Info: ../../modelDiagram/sig2.png used on input line 593.
+<use modelDiagram/sig2.png>
+Package pdftex.def Info: modelDiagram/sig2.png used on input line 591.
 (pdftex.def)             Requested size: 25.76073pt x 22.1311pt.
 
-<../../modelDiagram/brain.png, id=176, 800.9925pt x 639.38875pt>
-File: ../../modelDiagram/brain.png Graphic file (type png)
+<modelDiagram/brain.png, id=176, 800.9925pt x 639.38875pt>
+File: modelDiagram/brain.png Graphic file (type png)
 
-<use ../../modelDiagram/brain.png>
-Package pdftex.def Info: ../../modelDiagram/brain.png used on input line 593.
+<use modelDiagram/brain.png>
+Package pdftex.def Info: modelDiagram/brain.png used on input line 591.
 (pdftex.def)             Requested size: 48.05746pt x 38.36166pt.
 
-Overfull \hbox (6.26999pt too wide) in paragraph at lines 593--593
+Overfull \hbox (6.26999pt too wide) in paragraph at lines 591--591
  [] 
  []
 
 File: uclheader.pdf Graphic file (type pdf)
 <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 593.
+Package pdftex.def Info: uclheader.pdf used on input line 591.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [9
 
- <../../modelDiagram/sig0.png> <../../modelDiagram/sig1.png> <../../modelDiagra
-m/sig2.png> <../../modelDiagram/brain.png>]
+ <./modelDiagram/sig0.png> <./modelDiagram/sig1.png> <./modelDiagram/sig2.png> 
+<./modelDiagram/brain.png>]
 File: uclheader.pdf Graphic file (type pdf)
-
-<use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 645.
+ <use uclheader.pdf>
+Package pdftex.def Info: uclheader.pdf used on input line 643.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [10
 
 ]
 File: uclheader.pdf Graphic file (type pdf)
- <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 681.
+
+<use uclheader.pdf>
+Package pdftex.def Info: uclheader.pdf used on input line 679.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [11
 
 ]
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 707.
+Package pdftex.def Info: uclheader.pdf used on input line 705.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [12
 
@@ -1478,65 +1477,57 @@ File: figures/synThetaRes_gensigInitk-meansCl3Pr1Ra0_VWDPMStd.png Graphic file
 
 <use figures/synThetaRes_gensigInitk-meansCl3Pr1Ra0_VWDPMStd.png>
 Package pdftex.def Info: figures/synThetaRes_gensigInitk-meansCl3Pr1Ra0_VWDPMSt
-d.png used on input line 748.
+d.png used on input line 746.
 (pdftex.def)             Requested size: 258.14651pt x 93.3903pt.
 
+<figures/synShiftsRes_gensigInitk-meansCl3Pr1Ra0_VWDPMStd.png, id=211, 406.1574
+pt x 370.0224pt>
+File: figures/synShiftsRes_gensigInitk-meansCl3Pr1Ra0_VWDPMStd.png Graphic file
+ (type png)
 
-LaTeX Warning: File `figures/synShiftsRes_gensigInitk-meansCl3Pr1Ra0_VWDPMStd.p
-ng' not found on input line 748.
+<use figures/synShiftsRes_gensigInitk-meansCl3Pr1Ra0_VWDPMStd.png>
+Package pdftex.def Info: figures/synShiftsRes_gensigInitk-meansCl3Pr1Ra0_VWDPMS
+td.png used on input line 746.
+(pdftex.def)             Requested size: 90.87013pt x 82.78282pt.
 
-
-! Package pdftex.def Error: File `figures/synShiftsRes_gensigInitk-meansCl3Pr1R
-a0_VWDPMStd.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.748 \end{frame}
-                 
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (8.26137pt too wide) in paragraph at lines 748--748
+Overfull \hbox (8.26137pt too wide) in paragraph at lines 746--746
  [][] 
  []
 
 File: uclheader.pdf Graphic file (type pdf)
 <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 748.
+Package pdftex.def Info: uclheader.pdf used on input line 746.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [13
 
- <./figures/synThetaRes_gensigInitk-meansCl3Pr1Ra0_VWDPMStd.png>]
-<figures/synth/correctVertices_trajCent.png, id=224, 462.528pt x 346.896pt>
+ <./figures/synThetaRes_gensigInitk-meansCl3Pr1Ra0_VWDPMStd.png> <./figures/syn
+ShiftsRes_gensigInitk-meansCl3Pr1Ra0_VWDPMStd.png>]
+<figures/synth/correctVertices_trajCent.png, id=225, 462.528pt x 346.896pt>
 File: figures/synth/correctVertices_trajCent.png Graphic file (type png)
 
 <use figures/synth/correctVertices_trajCent.png>
 Package pdftex.def Info: figures/synth/correctVertices_trajCent.png used on inp
-ut line 804.
+ut line 802.
 (pdftex.def)             Requested size: 101.75647pt x 76.31735pt.
 
-<figures/synth/correctVertices_nrClust.png, id=225, 462.528pt x 346.896pt>
+<figures/synth/correctVertices_nrClust.png, id=226, 462.528pt x 346.896pt>
 File: figures/synth/correctVertices_nrClust.png Graphic file (type png)
 
 <use figures/synth/correctVertices_nrClust.png>
 Package pdftex.def Info: figures/synth/correctVertices_nrClust.png used on inpu
-t line 804.
+t line 802.
 (pdftex.def)             Requested size: 101.75647pt x 76.31735pt.
 
-<figures/synth/correctVertices_nrSubj.png, id=226, 462.528pt x 346.896pt>
+<figures/synth/correctVertices_nrSubj.png, id=227, 462.528pt x 346.896pt>
 File: figures/synth/correctVertices_nrSubj.png Graphic file (type png)
 
 <use figures/synth/correctVertices_nrSubj.png>
 Package pdftex.def Info: figures/synth/correctVertices_nrSubj.png used on input
- line 804.
+ line 802.
 (pdftex.def)             Requested size: 101.75647pt x 76.31735pt.
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 804.
+Package pdftex.def Info: uclheader.pdf used on input line 802.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [14
 
@@ -1544,75 +1535,75 @@ Package pdftex.def Info: uclheader.pdf used on input line 804.
 s_nrClust.png> <./figures/synth/correctVertices_nrSubj.png>]
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 856.
+Package pdftex.def Info: uclheader.pdf used on input line 854.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
 
 [15
 
 ]
-<figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png, id=248, 602.25pt
+<figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png, id=249, 602.25pt
  x 451.6875pt>
 File: figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png Graphic file
  (type png)
 
 <use figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png>
 Package pdftex.def Info: figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMS
-td.png used on input line 968.
+td.png used on input line 966.
 (pdftex.def)             Requested size: 103.25964pt x 77.44061pt.
 
-<figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blend24.png, id=249, 602.25p
+<figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blend24.png, id=250, 602.25p
 t x 451.6875pt>
 File: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blend24.png Graphic fil
 e (type png)
 
 <use figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blend24.png>
 Package pdftex.def Info: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blen
-d24.png used on input line 968.
+d24.png used on input line 966.
 (pdftex.def)             Requested size: 103.25964pt x 77.44061pt.
 
-<figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_blend24.png, id=250, 602.25
+<figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_blend24.png, id=251, 602.25
 pt x 451.6875pt>
 File: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_blend24.png Graphic fi
 le (type png)
 
 <use figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_blend24.png>
 Package pdftex.def Info: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_ble
-nd24.png used on input line 968.
+nd24.png used on input line 966.
 (pdftex.def)             Requested size: 103.25964pt x 77.44061pt.
 
-<figures/trajSamplesOneFig_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png, id=251
+<figures/trajSamplesOneFig_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png, id=252
 , 433.62pt x 330.2739pt>
 File: figures/trajSamplesOneFig_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png Gr
 aphic file (type png)
 
 <use figures/trajSamplesOneFig_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png>
 Package pdftex.def Info: figures/trajSamplesOneFig_adniThavgFWHM0InithistCl3Pr0
-Ra1_VWDPMStd.png used on input line 968.
+Ra1_VWDPMStd.png used on input line 966.
 (pdftex.def)             Requested size: 92.93304pt x 70.78072pt.
 
 <figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD.png, id=25
-2, 433.62pt x 330.2739pt>
+3, 433.62pt x 330.2739pt>
 File: figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD.png G
 raphic file (type png)
 
 <use figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD.png>
 Package pdftex.def Info: figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0R
-a1_VWDPMStdAD.png used on input line 968.
+a1_VWDPMStdAD.png used on input line 966.
 (pdftex.def)             Requested size: 92.93304pt x 70.78072pt.
 
 <figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA.png, id=2
-53, 433.62pt x 330.2739pt>
+54, 433.62pt x 330.2739pt>
 File: figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA.png 
 Graphic file (type png)
 
 <use figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA.png>
 Package pdftex.def Info: figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0R
-a1_VWDPMStdPCA.png used on input line 968.
+a1_VWDPMStdPCA.png used on input line 966.
 (pdftex.def)             Requested size: 92.93304pt x 70.78072pt.
 File: uclheader.pdf Graphic file (type pdf)
 
 <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 968.
+Package pdftex.def Info: uclheader.pdf used on input line 966.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [16
 
@@ -1627,47 +1618,47 @@ File: figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png Graphic file
 
 <use figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png>
 Package pdftex.def Info: figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMS
-td.png used on input line 1082.
+td.png used on input line 1080.
 (pdftex.def)             Requested size: 103.25964pt x 77.44061pt.
 File: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blend24.png Graphic fil
 e (type png)
 
 <use figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blend24.png>
 Package pdftex.def Info: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blen
-d24.png used on input line 1082.
+d24.png used on input line 1080.
 (pdftex.def)             Requested size: 103.25964pt x 77.44061pt.
 File: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_blend24.png Graphic fi
 le (type png)
 
 <use figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_blend24.png>
 Package pdftex.def Info: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_ble
-nd24.png used on input line 1082.
+nd24.png used on input line 1080.
 (pdftex.def)             Requested size: 103.25964pt x 77.44061pt.
 File: figures/trajSamplesOneFig_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png Gr
 aphic file (type png)
 
 <use figures/trajSamplesOneFig_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png>
 Package pdftex.def Info: figures/trajSamplesOneFig_adniThavgFWHM0InithistCl3Pr0
-Ra1_VWDPMStd.png used on input line 1082.
+Ra1_VWDPMStd.png used on input line 1080.
 (pdftex.def)             Requested size: 92.93304pt x 70.78072pt.
 File: figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD.png G
 raphic file (type png)
 
 <use figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD.png>
 Package pdftex.def Info: figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0R
-a1_VWDPMStdAD.png used on input line 1082.
+a1_VWDPMStdAD.png used on input line 1080.
 (pdftex.def)             Requested size: 92.93304pt x 70.78072pt.
 File: figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA.png 
 Graphic file (type png)
 
 <use figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA.png>
 Package pdftex.def Info: figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0R
-a1_VWDPMStdPCA.png used on input line 1082.
+a1_VWDPMStdPCA.png used on input line 1080.
 (pdftex.def)             Requested size: 92.93304pt x 70.78072pt.
 File: uclheader.pdf Graphic file (type pdf)
 
 <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 1082.
+Package pdftex.def Info: uclheader.pdf used on input line 1080.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [17
 
@@ -1677,47 +1668,47 @@ File: figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png Graphic file
 
 <use figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png>
 Package pdftex.def Info: figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMS
-td.png used on input line 1190.
+td.png used on input line 1188.
 (pdftex.def)             Requested size: 103.25964pt x 67.65225pt.
 File: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blend24.png Graphic fil
 e (type png)
 
 <use figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blend24.png>
 Package pdftex.def Info: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blen
-d24.png used on input line 1190.
+d24.png used on input line 1188.
 (pdftex.def)             Requested size: 103.25964pt x 67.65225pt.
 File: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_blend24.png Graphic fi
 le (type png)
 
 <use figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_blend24.png>
 Package pdftex.def Info: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_ble
-nd24.png used on input line 1190.
+nd24.png used on input line 1188.
 (pdftex.def)             Requested size: 103.25964pt x 67.65225pt.
 File: figures/trajSamplesOneFig_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png Gr
 aphic file (type png)
 
 <use figures/trajSamplesOneFig_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png>
 Package pdftex.def Info: figures/trajSamplesOneFig_adniThavgFWHM0InithistCl3Pr0
-Ra1_VWDPMStd.png used on input line 1190.
+Ra1_VWDPMStd.png used on input line 1188.
 (pdftex.def)             Requested size: 92.93304pt x 70.78072pt.
 File: figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD.png G
 raphic file (type png)
 
 <use figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD.png>
 Package pdftex.def Info: figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0R
-a1_VWDPMStdAD.png used on input line 1190.
+a1_VWDPMStdAD.png used on input line 1188.
 (pdftex.def)             Requested size: 92.93304pt x 70.78072pt.
 File: figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA.png 
 Graphic file (type png)
 
 <use figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA.png>
 Package pdftex.def Info: figures/trajSamplesOneFig_drcThavgFWHM0InithistCl3Pr0R
-a1_VWDPMStdPCA.png used on input line 1190.
+a1_VWDPMStdPCA.png used on input line 1188.
 (pdftex.def)             Requested size: 92.93304pt x 70.78072pt.
 File: uclheader.pdf Graphic file (type pdf)
 
 <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 1190.
+Package pdftex.def Info: uclheader.pdf used on input line 1188.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [18
 
@@ -1727,315 +1718,315 @@ File: figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png Graphic file
 
 <use figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMStd.png>
 Package pdftex.def Info: figures/blend14_adniThavgFWHM0InithistCl3Pr0Ra1_VWDPMS
-td.png used on input line 1284.
+td.png used on input line 1282.
 (pdftex.def)             Requested size: 103.25964pt x 77.44061pt.
 File: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blend24.png Graphic fil
 e (type png)
 
 <use figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blend24.png>
 Package pdftex.def Info: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdAD_blen
-d24.png used on input line 1284.
+d24.png used on input line 1282.
 (pdftex.def)             Requested size: 103.25964pt x 77.44061pt.
 File: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_blend24.png Graphic fi
 le (type png)
 
 <use figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_blend24.png>
 Package pdftex.def Info: figures/drcThavgFWHM0InithistCl3Pr0Ra1_VWDPMStdPCA_ble
-nd24.png used on input line 1284.
+nd24.png used on input line 1282.
 (pdftex.def)             Requested size: 103.25964pt x 77.44061pt.
 
-<dickerson_ad_lateral.png, id=284, 300.12125pt x 236.885pt>
+<dickerson_ad_lateral.png, id=285, 300.12125pt x 236.885pt>
 File: dickerson_ad_lateral.png Graphic file (type png)
 
 <use dickerson_ad_lateral.png>
-Package pdftex.def Info: dickerson_ad_lateral.png used on input line 1284.
+Package pdftex.def Info: dickerson_ad_lateral.png used on input line 1282.
 (pdftex.def)             Requested size: 78.30507pt x 61.80551pt.
 
-<lehmann_2011_brain.png, id=285, 313.17pt x 305.14pt>
+<lehmann_2011_brain.png, id=286, 313.17pt x 305.14pt>
 File: lehmann_2011_brain.png Graphic file (type png)
 
 <use lehmann_2011_brain.png>
-Package pdftex.def Info: lehmann_2011_brain.png used on input line 1284.
+Package pdftex.def Info: lehmann_2011_brain.png used on input line 1282.
 (pdftex.def)             Requested size: 67.11813pt x 65.39429pt.
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 1284.
+Package pdftex.def Info: uclheader.pdf used on input line 1282.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [19
 
  <./dickerson_ad_lateral.png> <./lehmann_2011_brain.png>]
 <..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend0.png
-, id=295, 602.25pt x 451.6875pt>
+, id=296, 602.25pt x 451.6875pt>
 File: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend
 0.png Graphic file (type png)
 
 <use ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend0
 .png>
 Package pdftex.def Info: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0
-Ra1_VWDPMMean/blend0.png used on input line 1323.
+Ra1_VWDPMMean/blend0.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 41.29797pt.
 
 <figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_
-VWDPMMean_f0.png, id=296, 361.35pt x 289.08pt>
+VWDPMMean_f0.png, id=297, 361.35pt x 289.08pt>
 File: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1
 Mrf5_VWDPMMean_f0.png Graphic file (type png)
 
 <use figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1M
 rf5_VWDPMMean_f0.png>
 Package pdftex.def Info: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0I
-nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f0.png used on input line 1323.
+nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f0.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 40.23265pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1323--1323
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
 
  []
 
 
 <..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend1.png
-, id=298, 602.25pt x 451.6875pt>
+, id=299, 602.25pt x 451.6875pt>
 File: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend
 1.png Graphic file (type png)
 
 <use ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend1
 .png>
 Package pdftex.def Info: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0
-Ra1_VWDPMMean/blend1.png used on input line 1323.
+Ra1_VWDPMMean/blend1.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 41.29797pt.
 
 <figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_
-VWDPMMean_f1.png, id=299, 361.35pt x 289.08pt>
+VWDPMMean_f1.png, id=300, 361.35pt x 289.08pt>
 File: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1
 Mrf5_VWDPMMean_f1.png Graphic file (type png)
 
 <use figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1M
 rf5_VWDPMMean_f1.png>
 Package pdftex.def Info: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0I
-nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f1.png used on input line 1323.
+nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f1.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 40.23265pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1323--1323
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
 
  []
 
 
 <..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend2.png
-, id=301, 602.25pt x 451.6875pt>
+, id=302, 602.25pt x 451.6875pt>
 File: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend
 2.png Graphic file (type png)
 
 <use ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend2
 .png>
 Package pdftex.def Info: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0
-Ra1_VWDPMMean/blend2.png used on input line 1323.
+Ra1_VWDPMMean/blend2.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 41.29797pt.
 
 <figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_
-VWDPMMean_f2.png, id=302, 361.35pt x 289.08pt>
+VWDPMMean_f2.png, id=303, 361.35pt x 289.08pt>
 File: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1
 Mrf5_VWDPMMean_f2.png Graphic file (type png)
 
 <use figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1M
 rf5_VWDPMMean_f2.png>
 Package pdftex.def Info: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0I
-nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f2.png used on input line 1323.
+nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f2.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 40.23265pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1323--1323
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
 
  []
 
 
 <..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend3.png
-, id=304, 602.25pt x 451.6875pt>
+, id=305, 602.25pt x 451.6875pt>
 File: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend
 3.png Graphic file (type png)
 
 <use ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend3
 .png>
 Package pdftex.def Info: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0
-Ra1_VWDPMMean/blend3.png used on input line 1323.
+Ra1_VWDPMMean/blend3.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 41.29797pt.
 
 <figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_
-VWDPMMean_f3.png, id=305, 361.35pt x 289.08pt>
+VWDPMMean_f3.png, id=306, 361.35pt x 289.08pt>
 File: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1
 Mrf5_VWDPMMean_f3.png Graphic file (type png)
 
 <use figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1M
 rf5_VWDPMMean_f3.png>
 Package pdftex.def Info: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0I
-nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f3.png used on input line 1323.
+nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f3.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 40.23265pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1323--1323
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
 
  []
 
 
 <..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend4.png
-, id=307, 602.25pt x 451.6875pt>
+, id=308, 602.25pt x 451.6875pt>
 File: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend
 4.png Graphic file (type png)
 
 <use ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend4
 .png>
 Package pdftex.def Info: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0
-Ra1_VWDPMMean/blend4.png used on input line 1323.
+Ra1_VWDPMMean/blend4.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 41.29797pt.
 
 <figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_
-VWDPMMean_f4.png, id=308, 361.35pt x 289.08pt>
+VWDPMMean_f4.png, id=309, 361.35pt x 289.08pt>
 File: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1
 Mrf5_VWDPMMean_f4.png Graphic file (type png)
 
 <use figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1M
 rf5_VWDPMMean_f4.png>
 Package pdftex.def Info: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0I
-nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f4.png used on input line 1323.
+nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f4.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 40.23265pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1323--1323
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
 
  []
 
 
 <..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend5.png
-, id=310, 602.25pt x 451.6875pt>
+, id=311, 602.25pt x 451.6875pt>
 File: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend
 5.png Graphic file (type png)
 
 <use ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend5
 .png>
 Package pdftex.def Info: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0
-Ra1_VWDPMMean/blend5.png used on input line 1323.
+Ra1_VWDPMMean/blend5.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 41.29797pt.
 
 <figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_
-VWDPMMean_f5.png, id=311, 361.35pt x 289.08pt>
+VWDPMMean_f5.png, id=312, 361.35pt x 289.08pt>
 File: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1
 Mrf5_VWDPMMean_f5.png Graphic file (type png)
 
 <use figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1M
 rf5_VWDPMMean_f5.png>
 Package pdftex.def Info: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0I
-nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f5.png used on input line 1323.
+nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f5.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 40.23265pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1323--1323
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
 
  []
 
 
 <..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend6.png
-, id=313, 602.25pt x 451.6875pt>
+, id=314, 602.25pt x 451.6875pt>
 File: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend
 6.png Graphic file (type png)
 
 <use ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend6
 .png>
 Package pdftex.def Info: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0
-Ra1_VWDPMMean/blend6.png used on input line 1323.
+Ra1_VWDPMMean/blend6.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 41.29797pt.
 
 <figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_
-VWDPMMean_f6.png, id=314, 361.35pt x 289.08pt>
+VWDPMMean_f6.png, id=315, 361.35pt x 289.08pt>
 File: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1
 Mrf5_VWDPMMean_f6.png Graphic file (type png)
 
 <use figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1M
 rf5_VWDPMMean_f6.png>
 Package pdftex.def Info: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0I
-nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f6.png used on input line 1323.
+nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f6.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 40.23265pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1323--1323
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
 
  []
 
 
 <..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend7.png
-, id=316, 602.25pt x 451.6875pt>
+, id=317, 602.25pt x 451.6875pt>
 File: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend
 7.png Graphic file (type png)
 
 <use ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend7
 .png>
 Package pdftex.def Info: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0
-Ra1_VWDPMMean/blend7.png used on input line 1323.
+Ra1_VWDPMMean/blend7.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 41.29797pt.
 
 <figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_
-VWDPMMean_f7.png, id=317, 361.35pt x 289.08pt>
+VWDPMMean_f7.png, id=318, 361.35pt x 289.08pt>
 File: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1
 Mrf5_VWDPMMean_f7.png Graphic file (type png)
 
 <use figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1M
 rf5_VWDPMMean_f7.png>
 Package pdftex.def Info: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0I
-nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f7.png used on input line 1323.
+nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f7.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 40.23265pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1323--1323
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
 
  []
 
 
 <..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend8.png
-, id=319, 602.25pt x 451.6875pt>
+, id=320, 602.25pt x 451.6875pt>
 File: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend
 8.png Graphic file (type png)
 
 <use ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend8
 .png>
 Package pdftex.def Info: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0
-Ra1_VWDPMMean/blend8.png used on input line 1323.
+Ra1_VWDPMMean/blend8.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 41.29797pt.
 
 <figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_
-VWDPMMean_f8.png, id=320, 361.35pt x 289.08pt>
+VWDPMMean_f8.png, id=321, 361.35pt x 289.08pt>
 File: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1
 Mrf5_VWDPMMean_f8.png Graphic file (type png)
 
 <use figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1M
 rf5_VWDPMMean_f8.png>
 Package pdftex.def Info: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0I
-nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f8.png used on input line 1323.
+nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f8.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 40.23265pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1323--1323
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
 
  []
 
 
 <..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend9.png
-, id=322, 602.25pt x 451.6875pt>
+, id=323, 602.25pt x 451.6875pt>
 File: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend
 9.png Graphic file (type png)
 
 <use ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend9
 .png>
 Package pdftex.def Info: ..//figures/crossvalid/adniThavgFWHM0Initk-meansCl3Pr0
-Ra1_VWDPMMean/blend9.png used on input line 1323.
+Ra1_VWDPMMean/blend9.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 41.29797pt.
 
 <figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_
-VWDPMMean_f9.png, id=323, 361.35pt x 289.08pt>
+VWDPMMean_f9.png, id=324, 361.35pt x 289.08pt>
 File: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1
 Mrf5_VWDPMMean_f9.png Graphic file (type png)
 
 <use figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0Initk-meansCl3Pr0Ra1M
 rf5_VWDPMMean_f9.png>
 Package pdftex.def Info: figures/cogCorr/trajSamplesOneFig_cogCorr_adniThFWHM0I
-nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f9.png used on input line 1323.
+nitk-meansCl3Pr0Ra1Mrf5_VWDPMMean_f9.png used on input line 1321.
 (pdftex.def)             Requested size: 55.07251pt x 40.23265pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1323--1323
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1321
 
  []
 
 File: uclheader.pdf Graphic file (type pdf)
 <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 1323.
+Package pdftex.def Info: uclheader.pdf used on input line 1321.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [20
 
@@ -2063,82 +2054,82 @@ d/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend7.png> <..//figures/crossva
 lid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend8.png> <..//figures/cross
 valid/adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPMMean/blend9.png>]
 <..//figures/crossvalid/stagingConsist_adniThavgFWHM0Initk-meansCl3Pr0Ra1_VWDPM
-Mean.png, id=362, 586.8324pt x 442.2924pt>
+Mean.png, id=363, 586.8324pt x 442.2924pt>
 File: ..//figures/crossvalid/stagingConsist_adniThavgFWHM0Initk-meansCl3Pr0Ra1_
 VWDPMMean.png Graphic file (type png)
 
 <use ..//figures/crossvalid/stagingConsist_adniThavgFWHM0Initk-meansCl3Pr0Ra1_V
 WDPMMean.png>
 Package pdftex.def Info: ..//figures/crossvalid/stagingConsist_adniThavgFWHM0In
-itk-meansCl3Pr0Ra1_VWDPMMean.png used on input line 1386.
+itk-meansCl3Pr0Ra1_VWDPMMean.png used on input line 1384.
 (pdftex.def)             Requested size: 137.67604pt x 103.76326pt.
 
 <figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWDPMMe
-an_ADAS13.png, id=363, 462.528pt x 346.896pt>
+an_ADAS13.png, id=364, 462.528pt x 346.896pt>
 File: figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VW
 DPMMean_ADAS13.png Graphic file (type png)
 
 <use figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWD
 PMMean_ADAS13.png>
 Package pdftex.def Info: figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-me
-ansCl3Pr0Ra1Mrf5_VWDPMMean_ADAS13.png used on input line 1386.
+ansCl3Pr0Ra1Mrf5_VWDPMMean_ADAS13.png used on input line 1384.
 (pdftex.def)             Requested size: 83.29619pt x 62.47034pt.
 
-Overfull \hbox (7.5728pt too wide) in paragraph at lines 1386--1386
+Overfull \hbox (7.5728pt too wide) in paragraph at lines 1384--1384
  [] 
  []
 
 
 <figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWDPMMe
-an_MMSE.png, id=364, 462.528pt x 346.896pt>
+an_MMSE.png, id=365, 462.528pt x 346.896pt>
 File: figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VW
 DPMMean_MMSE.png Graphic file (type png)
 
 <use figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWD
 PMMean_MMSE.png>
 Package pdftex.def Info: figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-me
-ansCl3Pr0Ra1Mrf5_VWDPMMean_MMSE.png used on input line 1386.
+ansCl3Pr0Ra1Mrf5_VWDPMMean_MMSE.png used on input line 1384.
 (pdftex.def)             Requested size: 83.29619pt x 62.47034pt.
 
-Overfull \hbox (7.5728pt too wide) in paragraph at lines 1386--1386
+Overfull \hbox (7.5728pt too wide) in paragraph at lines 1384--1384
  [] 
  []
 
 
 <figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWDPMMe
-an_RAVLT.png, id=365, 462.528pt x 346.896pt>
+an_RAVLT.png, id=366, 462.528pt x 346.896pt>
 File: figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VW
 DPMMean_RAVLT.png Graphic file (type png)
 
 <use figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWD
 PMMean_RAVLT.png>
 Package pdftex.def Info: figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-me
-ansCl3Pr0Ra1Mrf5_VWDPMMean_RAVLT.png used on input line 1386.
+ansCl3Pr0Ra1Mrf5_VWDPMMean_RAVLT.png used on input line 1384.
 (pdftex.def)             Requested size: 83.29619pt x 62.47034pt.
 
-Overfull \hbox (7.5728pt too wide) in paragraph at lines 1386--1386
+Overfull \hbox (7.5728pt too wide) in paragraph at lines 1384--1384
  [] 
  []
 
 
 <figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWDPMMe
-an_CDRSOB.png, id=366, 462.528pt x 346.896pt>
+an_CDRSOB.png, id=367, 462.528pt x 346.896pt>
 File: figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VW
 DPMMean_CDRSOB.png Graphic file (type png)
 
 <use figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWD
 PMMean_CDRSOB.png>
 Package pdftex.def Info: figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-me
-ansCl3Pr0Ra1Mrf5_VWDPMMean_CDRSOB.png used on input line 1386.
+ansCl3Pr0Ra1Mrf5_VWDPMMean_CDRSOB.png used on input line 1384.
 (pdftex.def)             Requested size: 83.29619pt x 62.47034pt.
 
-Overfull \hbox (7.5728pt too wide) in paragraph at lines 1386--1386
+Overfull \hbox (7.5728pt too wide) in paragraph at lines 1384--1384
  [] 
  []
 
 File: uclheader.pdf Graphic file (type pdf)
 <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 1386.
+Package pdftex.def Info: uclheader.pdf used on input line 1384.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [21
 
@@ -2148,15 +2139,14 @@ MMean.png> <./figures/stagingCogTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra
 itk-meansCl3Pr0Ra1Mrf5_VWDPMMean_MMSE.png> <./figures/stagingCogTestsScatterPlo
 t_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWDPMMean_RAVLT.png> <./figures/stagingCo
 gTestsScatterPlot_adniThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWDPMMean_CDRSOB.png>]
-<../../journal_paper/figures//slopeCol_adniPetInitk-meansCl20Pr0Ra1Mrf5DataNZ_V
-DPM_MRF.png, id=378, 602.25pt x 451.6875pt>
-File: ../../journal_paper/figures//slopeCol_adniPetInitk-meansCl20Pr0Ra1Mrf5Dat
-aNZ_VDPM_MRF.png Graphic file (type png)
+<figures//slopeCol_adniPetInitk-meansCl20Pr0Ra1Mrf5DataNZ_VDPM_MRF.png, id=379,
+ 602.25pt x 451.6875pt>
+File: figures//slopeCol_adniPetInitk-meansCl20Pr0Ra1Mrf5DataNZ_VDPM_MRF.png Gra
+phic file (type png)
 
-<use ../../journal_paper/figures//slopeCol_adniPetInitk-meansCl20Pr0Ra1Mrf5Data
-NZ_VDPM_MRF.png>
-Package pdftex.def Info: ../../journal_paper/figures//slopeCol_adniPetInitk-mea
-nsCl20Pr0Ra1Mrf5DataNZ_VDPM_MRF.png used on input line 1495.
+<use figures//slopeCol_adniPetInitk-meansCl20Pr0Ra1Mrf5DataNZ_VDPM_MRF.png>
+Package pdftex.def Info: figures//slopeCol_adniPetInitk-meansCl20Pr0Ra1Mrf5Data
+NZ_VDPM_MRF.png used on input line 1493.
 (pdftex.def)             Requested size: 82.60646pt x 61.95386pt.
 
 
@@ -2167,7 +2157,7 @@ See the pgfkeys package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1495 \end{frame}
+l.1493 \end{frame}
                   
 This error message was generated by an \errmessage
 command, so I can't give any explicit help.
@@ -2175,128 +2165,128 @@ Pretend that you're Hercule Poirot: Examine all clues,
 and deduce the truth by order and method.
 
 
-<../../journal_paper/figures//trajSamplesOneFig_adniPetInitk-meansCl20Pr0Ra1Mrf
-5DataNZ_VDPM_MRF.png, id=379, 361.35pt x 289.08pt>
-File: ../../journal_paper/figures//trajSamplesOneFig_adniPetInitk-meansCl20Pr0R
-a1Mrf5DataNZ_VDPM_MRF.png Graphic file (type png)
+<figures//trajSamplesOneFig_adniPetInitk-meansCl20Pr0Ra1Mrf5DataNZ_VDPM_MRF.png
+, id=380, 361.35pt x 289.08pt>
+File: figures//trajSamplesOneFig_adniPetInitk-meansCl20Pr0Ra1Mrf5DataNZ_VDPM_MR
+F.png Graphic file (type png)
 
-<use ../../journal_paper/figures//trajSamplesOneFig_adniPetInitk-meansCl20Pr0Ra
-1Mrf5DataNZ_VDPM_MRF.png>
-Package pdftex.def Info: ../../journal_paper/figures//trajSamplesOneFig_adniPet
-Initk-meansCl20Pr0Ra1Mrf5DataNZ_VDPM_MRF.png used on input line 1495.
+<use figures//trajSamplesOneFig_adniPetInitk-meansCl20Pr0Ra1Mrf5DataNZ_VDPM_MRF
+.png>
+Package pdftex.def Info: figures//trajSamplesOneFig_adniPetInitk-meansCl20Pr0Ra
+1Mrf5DataNZ_VDPM_MRF.png used on input line 1493.
 (pdftex.def)             Requested size: 110.14125pt x 68.41875pt.
 
-Overfull \hbox (2.35623pt too wide) in paragraph at lines 1495--1495
+Overfull \hbox (2.35623pt too wide) in paragraph at lines 1493--1493
 []  [] 
  []
 
 File: bilgel_neuroimage.jpg Graphic file (type jpg)
 <use bilgel_neuroimage.jpg>
-Package pdftex.def Info: bilgel_neuroimage.jpg used on input line 1495.
+Package pdftex.def Info: bilgel_neuroimage.jpg used on input line 1493.
 (pdftex.def)             Requested size: 66.08542pt x 42.12888pt.
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 1495.
+Package pdftex.def Info: uclheader.pdf used on input line 1493.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [22
 
- <../../journal_paper/figures//trajSamplesOneFig_adniPetInitk-meansCl20Pr0Ra1Mr
-f5DataNZ_VDPM_MRF.png> <../../journal_paper/figures//slopeCol_adniPetInitk-mean
-sCl20Pr0Ra1Mrf5DataNZ_VDPM_MRF.png>]
+ <./figures//trajSamplesOneFig_adniPetInitk-meansCl20Pr0Ra1Mrf5DataNZ_VDPM_MRF.
+png> <./figures//slopeCol_adniPetInitk-meansCl20Pr0Ra1Mrf5DataNZ_VDPM_MRF.png>]
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 1528.
+Package pdftex.def Info: uclheader.pdf used on input line 1526.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
- [23
+
+[23
 
 ]
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 1573.
+Package pdftex.def Info: uclheader.pdf used on input line 1571.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [24
 
 ]
-<cmic_away_day.jpeg, id=404, 1466.47874pt x 452.69125pt>
+<cmic_away_day.jpeg, id=405, 1466.47874pt x 452.69125pt>
 File: cmic_away_day.jpeg Graphic file (type jpg)
 
 <use cmic_away_day.jpeg>
-Package pdftex.def Info: cmic_away_day.jpeg used on input line 1636.
+Package pdftex.def Info: cmic_away_day.jpeg used on input line 1634.
 (pdftex.def)             Requested size: 344.19536pt x 70.90797pt.
 
-<Danny-Alexander.jpeg, id=406, 167.62625pt x 251.94125pt>
+<Danny-Alexander.jpeg, id=407, 167.62625pt x 251.94125pt>
 File: Danny-Alexander.jpeg Graphic file (type jpg)
 
 <use Danny-Alexander.jpeg>
-Package pdftex.def Info: Danny-Alexander.jpeg used on input line 1636.
+Package pdftex.def Info: Danny-Alexander.jpeg used on input line 1634.
 (pdftex.def)             Requested size: 41.90645pt x 62.98515pt.
 
-<Seb_Crutch_photo.JPG, id=407, 157.58875pt x 235.88126pt>
+<Seb_Crutch_photo.JPG, id=408, 157.58875pt x 235.88126pt>
 File: Seb_Crutch_photo.JPG Graphic file (type jpg)
 
 <use Seb_Crutch_photo.JPG>
-Package pdftex.def Info: Seb_Crutch_photo.JPG used on input line 1636.
+Package pdftex.def Info: Seb_Crutch_photo.JPG used on input line 1634.
 (pdftex.def)             Requested size: 42.54951pt x 63.68878pt.
- <CDTlogo.png, id=408, 570.13pt x 302.12875pt>
+ <CDTlogo.png, id=409, 570.13pt x 302.12875pt>
 File: CDTlogo.png Graphic file (type png)
 
 <use CDTlogo.png>
-Package pdftex.def Info: CDTlogo.png used on input line 1636.
+Package pdftex.def Info: CDTlogo.png used on input line 1634.
 (pdftex.def)             Requested size: 53.68443pt x 28.45274pt.
 File: epsrc_logo.jpg Graphic file (type jpg)
  <use epsrc_logo.jpg>
-Package pdftex.def Info: epsrc_logo.jpg used on input line 1636.
+Package pdftex.def Info: epsrc_logo.jpg used on input line 1634.
 (pdftex.def)             Requested size: 48.63127pt x 28.45274pt.
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 1636.
+Package pdftex.def Info: uclheader.pdf used on input line 1634.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [25
 
  <./cmic_away_day.jpeg> <./Danny-Alexander.jpeg> <./Seb_Crutch_photo.JPG> <./CD
 Tlogo.png>]
-<tadpole.png, id=418, 762.85pt x 650.43pt>
+<tadpole.png, id=419, 762.85pt x 650.43pt>
 File: tadpole.png Graphic file (type png)
  <use tadpole.png>
-Package pdftex.def Info: tadpole.png used on input line 1654.
+Package pdftex.def Info: tadpole.png used on input line 1652.
 (pdftex.def)             Requested size: 305.1346pt x 151.76404pt.
 File: uclheader.pdf Graphic file (type pdf)
 
 <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 1654.
+Package pdftex.def Info: uclheader.pdf used on input line 1652.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [26
 
  <./tadpole.png>]
 File: uclheader.pdf Graphic file (type pdf)
  <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 1734.
+Package pdftex.def Info: uclheader.pdf used on input line 1732.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [27
 
 ]
-<slopeCol_drcThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWDPMMeanAD.png, id=434, 602.25pt 
+<slopeCol_drcThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWDPMMeanAD.png, id=435, 602.25pt 
 x 451.6875pt>
 File: slopeCol_drcThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWDPMMeanAD.png Graphic file 
 (type png)
 
 <use slopeCol_drcThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWDPMMeanAD.png>
 Package pdftex.def Info: slopeCol_drcThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VWDPMMeanA
-D.png used on input line 1789.
+D.png used on input line 1787.
 (pdftex.def)             Requested size: 90.33359pt x 67.7502pt.
 
-<slopeCol_drcThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VDPM_MRFAD.png, id=435, 602.25pt x
+<slopeCol_drcThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VDPM_MRFAD.png, id=436, 602.25pt x
  451.6875pt>
 File: slopeCol_drcThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VDPM_MRFAD.png Graphic file (
 type png)
  <use slopeCol_drcThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VDPM_MRFAD.png>
 Package pdftex.def Info: slopeCol_drcThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VDPM_MRFAD
-.png used on input line 1789.
+.png used on input line 1787.
 (pdftex.def)             Requested size: 90.33359pt x 67.7502pt.
 File: uclheader.pdf Graphic file (type pdf)
 
 <use uclheader.pdf>
-Package pdftex.def Info: uclheader.pdf used on input line 1789.
+Package pdftex.def Info: uclheader.pdf used on input line 1787.
 (pdftex.def)             Requested size: 364.19536pt x 29.96231pt.
  [28
 
@@ -2311,23 +2301,23 @@ cThFWHM0Initk-meansCl3Pr0Ra1Mrf5_VDPM_MRFAD.png>]
 \tf@snm=\write8
 \openout8 = `pres.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1812.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1812.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1810.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1810.
 
 (./pres.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1812.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1812.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1810.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1810.
 
 Package rerunfilecheck Info: File `pres.out' has not changed.
 (rerunfilecheck)             Checksum: 835BC63BBF663912C81944E0F1F9080D;177.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1812.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1810.
  ) 
 Here is how much of TeX's memory you used:
- 25490 strings out of 494465
- 536003 string characters out of 6166361
- 624277 words of memory out of 5000000
- 27997 multiletter control sequences out of 15000+600000
- 31074 words of font info for 61 fonts, out of 8000000 for 9000
+ 25491 strings out of 494465
+ 535934 string characters out of 6166361
+ 624233 words of memory out of 5000000
+ 27999 multiletter control sequences out of 15000+600000
+ 30906 words of font info for 60 fonts, out of 8000000 for 9000
  350 hyphenation exceptions out of 8191
  55i,16n,77p,397b,1357s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -2341,14 +2331,13 @@ amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/helvetic/uhvro8a.pfb>
-Output written on pres.pdf (28 pages, 8955041 bytes).
+share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on pres.pdf (28 pages, 8996452 bytes).
 PDF statistics:
- 510 PDF objects out of 1000 (max. 8388607)
- 287 compressed objects within 3 object streams
+ 508 PDF objects out of 1000 (max. 8388607)
+ 284 compressed objects within 3 object streams
  70 named destinations out of 1000 (max. 500000)
- 691 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 696 words of extra memory for PDF output out of 10000 (max. 10000000)
 
