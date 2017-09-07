@@ -10,4 +10,4 @@ Neuroimaging Initiative
 For main paper see paper.pdf
 For main presentation see presentation/pres.pdf
 
-Latex and figures used to generate the pdfs are also included
+Latex files and figures used to generate the pdfs are also included
